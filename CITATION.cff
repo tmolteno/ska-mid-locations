@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 title: >-
-  Specfit: The current locations for the SKA1-mid radio telescope antennas.
+  SKA1 locations: The current geographic locations for the SKA1-mid radio telescope antennas.
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
