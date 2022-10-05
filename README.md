@@ -13,4 +13,4 @@ In google earth (desktop) choose File->Import and select 'all files'. Then choos
 
 ![SKA1 KML Visualization in google earth](https://github.com/tmolteno/ska-mid-locations/blob/main/img/ska1_mid_earth.jpg?raw=true)
 
-Data was taken from [https://gitlab.com/ska-telescope/sim/ska-sim-mid/-/blob/master/rfi/data/aeronautical_v2_SKA_Mid_coord/SKA1MID.csv]
+Data was taken from SKA report 13/03/2015 SKA-TEL-INSA-0000537 [https://www.skao.int/sites/default/files/documents/d20-SKA-TEL-INSA-0000537-SKA1_Mid_Physical_Configuration_Coordinates_Rev_2-signed_0.pdf]
