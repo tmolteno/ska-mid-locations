@@ -1,9 +1,9 @@
 #
 # Example plotting of the SKA co-ordinates from the CSV file
 #
-# Author. Tim Molteno tim@physics.otago.ac.nz 
+# (c) 2022. Tim Molteno tim@physics.otago.ac.nz 
 #
-# (c) GPL v3
+# Licensed under the GPL v3 open-source license
 #
 import csv
 import numpy as np
