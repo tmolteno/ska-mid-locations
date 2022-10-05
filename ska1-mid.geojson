@@ -3,2574 +3,2561 @@
         {
             "geometry": {
                 "coordinates": [
-                    21.443803,
-                    -30.712925
+                    -30.712925,
+                    21.443803
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 0"
+                "name": "M000"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.443901,
-                    -30.712605
+                    -30.712605,
+                    21.443901
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 1"
+                "name": "M001"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.443554,
-                    -30.713078
+                    -30.713078,
+                    21.443554
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 2"
+                "name": "M002"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.443195,
-                    -30.71288
+                    -30.71288,
+                    21.443195
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 3"
+                "name": "M003"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.442599,
-                    -30.713336
+                    -30.713337,
+                    21.442599
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 4"
+                "name": "M004"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.442824,
-                    -30.713609
+                    -30.713609,
+                    21.442824
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 5"
+                "name": "M005"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.443699,
-                    -30.71372
+                    -30.71372,
+                    21.443699
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 6"
+                "name": "M006"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.442954,
-                    -30.714688
+                    -30.714688,
+                    21.442954
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 7"
+                "name": "M007"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.442913,
-                    -30.715881
+                    -30.715881,
+                    21.442913
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 8"
+                "name": "M008"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.444227,
-                    -30.714402
+                    -30.714402,
+                    21.444227
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 9"
+                "name": "M009"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.444809,
-                    -30.715672
+                    -30.715672,
+                    21.444809
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 10"
+                "name": "M010"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.444766,
-                    -30.714231
+                    -30.714231,
+                    21.444766
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 11"
+                "name": "M011"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.445351,
-                    -30.714377
+                    -30.714377,
+                    21.445351
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 12"
+                "name": "M012"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.446361,
-                    -30.714604
+                    -30.714604,
+                    21.446361
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 13"
+                "name": "M013"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.446819,
-                    -30.713633
+                    -30.713633,
+                    21.446819
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 14"
+                "name": "M014"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.446088,
-                    -30.713032
+                    -30.713032,
+                    21.446088
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 15"
+                "name": "M015"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.446897,
-                    -30.712732
+                    -30.712732,
+                    21.446897
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 16"
+                "name": "M016"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.445973,
-                    -30.712068
+                    -30.712068,
+                    21.445973
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 17"
+                "name": "M017"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.444993,
-                    -30.713273
+                    -30.713273,
+                    21.444993
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 18"
+                "name": "M018"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.445672,
-                    -30.713628
+                    -30.713628,
+                    21.445672
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 19"
+                "name": "M019"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.444902,
-                    -30.713758
+                    -30.713758,
+                    21.444902
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 20"
+                "name": "M020"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.4408,
-                    -30.714007
+                    -30.714007,
+                    21.4408
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 21"
+                "name": "M021"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.440525,
-                    -30.712338
+                    -30.712338,
+                    21.440525
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 22"
+                "name": "M022"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.439996,
-                    -30.711051
+                    -30.711051,
+                    21.439996
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 23"
+                "name": "M023"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.440225,
-                    -30.709702
+                    -30.709702,
+                    21.440225
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 24"
+                "name": "M024"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.44199,
-                    -30.709021
+                    -30.709021,
+                    21.44199
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 25"
+                "name": "M025"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.442856,
-                    -30.710902
+                    -30.710902,
+                    21.442856
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 26"
+                "name": "M026"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.444312,
-                    -30.711264
+                    -30.711264,
+                    21.444312
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 27"
+                "name": "M027"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.443355,
-                    -30.711842
+                    -30.711842,
+                    21.443355
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 28"
+                "name": "M028"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.442963,
-                    -30.712175
+                    -30.712175,
+                    21.442963
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 29"
+                "name": "M029"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.445677,
-                    -30.710028
+                    -30.710028,
+                    21.445677
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 30"
+                "name": "M030"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.446463,
-                    -30.71021
+                    -30.71021,
+                    21.446463
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 31"
+                "name": "M031"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.448704,
-                    -30.709473
+                    -30.709473,
+                    21.448704
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 32"
+                "name": "M032"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.44995,
-                    -30.703264
+                    -30.703264,
+                    21.44995
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 33"
+                "name": "M033"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.447624,
-                    -30.711311
+                    -30.711311,
+                    21.447624
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 34"
+                "name": "M034"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.44792,
-                    -30.712687
+                    -30.712687,
+                    21.44792
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 35"
+                "name": "M035"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.447942,
-                    -30.713678
+                    -30.713678,
+                    21.447942
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 36"
+                "name": "M036"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.447859,
-                    -30.715198
+                    -30.715198,
+                    21.447859
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 37"
+                "name": "M037"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.446116,
-                    -30.716188
+                    -30.716188,
+                    21.446116
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 38"
+                "name": "M038"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.446538,
-                    -30.716396
+                    -30.716396,
+                    21.446538
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 39"
+                "name": "M039"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.443609,
-                    -30.717479
+                    -30.717479,
+                    21.443609
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 40"
+                "name": "M040"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.440888,
-                    -30.717023
+                    -30.717023,
+                    21.440888
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 41"
+                "name": "M041"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.440114,
-                    -30.715207
+                    -30.715207,
+                    21.440114
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 42"
+                "name": "M042"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.437315,
-                    -30.712213
+                    -30.712213,
+                    21.437315
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 43"
+                "name": "M043"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.434536,
-                    -30.70564
+                    -30.70564,
+                    21.434536
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 44"
+                "name": "M044"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.424759,
-                    -30.708649
+                    -30.708649,
+                    21.424759
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 45"
+                "name": "M045"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.428576,
-                    -30.695255
+                    -30.695255,
+                    21.428576
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 46"
+                "name": "M046"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.437853,
-                    -30.715721
+                    -30.715721,
+                    21.437853
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 47"
+                "name": "M047"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.414612,
-                    -30.686821
+                    -30.686821,
+                    21.414612
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 48"
+                "name": "M048"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.406253,
-                    -30.707114
+                    -30.707114,
+                    21.406253
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 49"
+                "name": "M049"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.422466,
-                    -30.718662
+                    -30.718663,
+                    21.422466
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 50"
+                "name": "M050"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.435014,
-                    -30.717994
+                    -30.717994,
+                    21.435014
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 51"
+                "name": "M051"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.437697,
-                    -30.721415
+                    -30.721415,
+                    21.437697
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 52"
+                "name": "M052"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.443987,
-                    -30.72282
+                    -30.72282,
+                    21.443987
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 53"
+                "name": "M053"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.452991,
-                    -30.715563
+                    -30.715563,
+                    21.452991
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 54"
+                "name": "M054"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.456433,
-                    -30.710184
+                    -30.710184,
+                    21.456433
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 55"
+                "name": "M055"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.460572,
-                    -30.706846
+                    -30.706846,
+                    21.460572
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 56"
+                "name": "M056"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.446964,
-                    -30.681656
+                    -30.681656,
+                    21.446964
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 57"
+                "name": "M057"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.473168,
-                    -30.686821
+                    -30.686821,
+                    21.473168
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 58"
+                "name": "M058"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.482364,
-                    -30.704206
+                    -30.704205,
+                    21.482364
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 59"
+                "name": "M059"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.479589,
-                    -30.727649
+                    -30.727649,
+                    21.479589
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 60"
+                "name": "M060"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.443718,
-                    -30.732013
+                    -30.732013,
+                    21.443718
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 61"
+                "name": "M061"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.428849,
-                    -30.733634
+                    -30.733635,
+                    21.428849
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 62"
+                "name": "M062"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.408191,
-                    -30.727649
+                    -30.727649,
+                    21.408191
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 63"
+                "name": "M063"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.449412,
-                    -30.71329
+                    -30.71329,
+                    21.449412
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 64"
+                "name": "SKA001"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.443214,
-                    -30.711544
+                    -30.711544,
+                    21.443214
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 65"
+                "name": "SKA002"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.442342,
-                    -30.710966
+                    -30.710966,
+                    21.442342
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 66"
+                "name": "SKA003"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    22.221828,
-                    -30.280881
+                    -30.280881,
+                    22.221828
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 67"
+                "name": "SKA004"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    20.893386,
-                    -30.262241
+                    -30.262241,
+                    20.893386
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 68"
+                "name": "SKA005"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.112343,
-                    -30.260672
+                    -30.260672,
+                    21.112343
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 69"
+                "name": "SKA006"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.28299,
-                    -30.303072
+                    -30.303073,
+                    21.28299
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 70"
+                "name": "SKA007"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    20.597376,
-                    -30.308659
+                    -30.308659,
+                    20.597376
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 71"
+                "name": "SKA008"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.423604,
-                    -30.360973
+                    -30.360973,
+                    21.423604
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 72"
+                "name": "SKA009"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.481185,
-                    -30.437353
+                    -30.437353,
+                    21.481185
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 73"
+                "name": "SKA010"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    22.162269,
-                    -30.501569
+                    -30.501569,
+                    22.162269
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 74"
+                "name": "SKA011"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.536952,
-                    -30.495238
+                    -30.495238,
+                    21.536952
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 75"
+                "name": "SKA012"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.576635,
-                    -30.56085
+                    -30.56085,
+                    21.576635
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 76"
+                "name": "SKA013"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.568196,
-                    -30.622317
+                    -30.622317,
+                    21.568196
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 77"
+                "name": "SKA014"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.374214,
-                    -30.638584
+                    -30.638584,
+                    21.374214
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 78"
+                "name": "SKA015"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.325844,
-                    -30.643727
+                    -30.643727,
+                    21.325844
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 79"
+                "name": "SKA016"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.406331,
-                    -30.642963
+                    -30.642963,
+                    21.406331
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 80"
+                "name": "SKA017"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.425892,
-                    -30.653862
+                    -30.653862,
+                    21.425892
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 81"
+                "name": "SKA018"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.276855,
-                    -30.658922
+                    -30.658922,
+                    21.276855
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 82"
+                "name": "SKA019"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.451767,
-                    -30.659316
+                    -30.659316,
+                    21.451767
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 83"
+                "name": "SKA020"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    22.049772,
-                    -30.661913
+                    -30.661913,
+                    22.049772
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 84"
+                "name": "SKA021"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.573851,
-                    -30.669603
+                    -30.669603,
+                    21.573851
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 85"
+                "name": "SKA022"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.460885,
-                    -30.674468
+                    -30.674468,
+                    21.460885
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 86"
+                "name": "SKA023"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.462108,
-                    -30.686657
+                    -30.686657,
+                    21.462108
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 87"
+                "name": "SKA024"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.231024,
-                    -30.686055
+                    -30.686055,
+                    21.231024
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 88"
+                "name": "SKA025"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.464027,
-                    -30.692349
+                    -30.692349,
+                    21.464027
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 89"
+                "name": "SKA026"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.551131,
-                    -30.694973
+                    -30.694973,
+                    21.551131
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 90"
+                "name": "SKA027"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.429935,
-                    -30.701127
+                    -30.701127,
+                    21.429935
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 91"
+                "name": "SKA028"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.434492,
-                    -30.701264
+                    -30.701264,
+                    21.434492
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 92"
+                "name": "SKA029"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.439049,
-                    -30.702356
+                    -30.702356,
+                    21.439049
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 93"
+                "name": "SKA030"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.421559,
-                    -30.70258
+                    -30.70258,
+                    21.421559
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 94"
+                "name": "SKA031"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.464587,
-                    -30.702805
+                    -30.702805,
+                    21.464587
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 95"
+                "name": "SKA032"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.44447,
-                    -30.704982
+                    -30.704982,
+                    21.44447
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 96"
+                "name": "SKA033"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.413573,
-                    -30.706149
+                    -30.706149,
+                    21.413573
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 97"
+                "name": "SKA034"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.440989,
-                    -30.706517
+                    -30.706517,
+                    21.440989
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 98"
+                "name": "SKA035"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.445301,
-                    -30.70782
+                    -30.70782,
+                    21.445301
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 99"
+                "name": "SKA036"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.462229,
-                    -30.708744
+                    -30.708744,
+                    21.462229
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 100"
+                "name": "SKA037"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.440591,
-                    -30.708913
+                    -30.708913,
+                    21.440591
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 101"
+                "name": "SKA038"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.443686,
-                    -30.709254
+                    -30.709254,
+                    21.443686
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 102"
+                "name": "SKA039"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.435079,
-                    -30.708993
+                    -30.708993,
+                    21.435079
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 103"
+                "name": "SKA040"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.441639,
-                    -30.71069
+                    -30.71069,
+                    21.441639
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 104"
+                "name": "SKA041"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.44512,
-                    -30.711168
+                    -30.711168,
+                    21.44512
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 105"
+                "name": "SKA042"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.43909,
-                    -30.711278
+                    -30.711278,
+                    21.43909
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 106"
+                "name": "SKA043"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.443764,
-                    -30.71128
+                    -30.71128,
+                    21.443764
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 107"
+                "name": "SKA044"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.45228,
-                    -30.711729
+                    -30.711729,
+                    21.45228
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 108"
+                "name": "SKA045"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.444359,
-                    -30.711825
+                    -30.711825,
+                    21.444359
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 109"
+                "name": "SKA046"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.440542,
-                    -30.711918
+                    -30.711918,
+                    21.440543
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 110"
+                "name": "SKA047"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.442356,
-                    -30.712025
+                    -30.712025,
+                    21.442356
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 111"
+                "name": "SKA048"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.443574,
-                    -30.712107
+                    -30.712107,
+                    21.443574
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 112"
+                "name": "SKA049"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.444438,
-                    -30.712193
+                    -30.712193,
+                    21.444438
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 113"
+                "name": "SKA050"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.443917,
-                    -30.712207
+                    -30.712207,
+                    21.443917
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 114"
+                "name": "SKA051"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.442626,
-                    -30.71221
+                    -30.71221,
+                    21.442626
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 115"
+                "name": "SKA052"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.443323,
-                    -30.712317
+                    -30.712317,
+                    21.443323
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 116"
+                "name": "SKA053"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.447334,
-                    -30.712406
+                    -30.712406,
+                    21.447335
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 117"
+                "name": "SKA054"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.441658,
-                    -30.712409
+                    -30.712409,
+                    21.441659
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 118"
+                "name": "SKA055"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.443668,
-                    -30.712428
+                    -30.712428,
+                    21.443668
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 119"
+                "name": "SKA056"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.442969,
-                    -30.71245
+                    -30.71245,
+                    21.442969
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 120"
+                "name": "SKA057"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.442251,
-                    -30.712485
+                    -30.712485,
+                    21.442251
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 121"
+                "name": "SKA058"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.444228,
-                    -30.712544
+                    -30.712544,
+                    21.444228
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 122"
+                "name": "SKA059"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.40524,
-                    -30.712547
+                    -30.712547,
+                    21.40524
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 123"
+                "name": "SKA060"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.445672,
-                    -30.712552
+                    -30.712552,
+                    21.445672
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 124"
+                "name": "SKA061"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.44328,
-                    -30.712597
+                    -30.712597,
+                    21.44328
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 125"
+                "name": "SKA062"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.435243,
-                    -30.712648
+                    -30.712648,
+                    21.435243
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 126"
+                "name": "SKA063"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.442604,
-                    -30.712715
+                    -30.712715,
+                    21.442604
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 127"
+                "name": "SKA064"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.442939,
-                    -30.712722
+                    -30.712722,
+                    21.442939
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 128"
+                "name": "SKA065"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.444511,
-                    -30.71285
+                    -30.71285,
+                    21.444511
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 129"
+                "name": "SKA066"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.445117,
-                    -30.712941
+                    -30.712941,
+                    21.445117
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 130"
+                "name": "SKA067"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.441913,
-                    -30.71295
+                    -30.71295,
+                    21.441913
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 131"
+                "name": "SKA068"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.442686,
-                    -30.712981
+                    -30.712981,
+                    21.442686
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 132"
+                "name": "SKA069"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.458393,
-                    -30.712991
+                    -30.712991,
+                    21.458393
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 133"
+                "name": "SKA070"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.444106,
-                    -30.712991
+                    -30.712991,
+                    21.444106
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 134"
+                "name": "SKA071"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.442338,
-                    -30.71309
+                    -30.71309,
+                    21.442338
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 135"
+                "name": "SKA072"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.443222,
-                    -30.713174
+                    -30.713174,
+                    21.443222
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 136"
+                "name": "SKA073"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.442917,
-                    -30.71328
+                    -30.71328,
+                    21.442917
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 137"
+                "name": "SKA074"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.443936,
-                    -30.713328
+                    -30.713328,
+                    21.443936
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 138"
+                "name": "SKA075"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.444288,
-                    -30.713364
+                    -30.713364,
+                    21.444288
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 139"
+                "name": "SKA076"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.440038,
-                    -30.713405
+                    -30.713405,
+                    21.440038
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 140"
+                "name": "SKA077"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.442263,
-                    -30.713413
+                    -30.713413,
+                    21.442263
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 141"
+                "name": "SKA078"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.443595,
-                    -30.713434
+                    -30.713434,
+                    21.443595
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 142"
+                "name": "SKA079"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.443255,
-                    -30.71348
+                    -30.71348,
+                    21.443255
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 143"
+                "name": "SKA080"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.444612,
-                    -30.713603
+                    -30.713603,
+                    21.444612
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 144"
+                "name": "SKA081"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.44405,
-                    -30.713665
+                    -30.713665,
+                    21.44405
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 145"
+                "name": "SKA082"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.437757,
-                    -30.713717
+                    -30.713717,
+                    21.437757
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 146"
+                "name": "SKA083"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.441878,
-                    -30.713786
+                    -30.713786,
+                    21.441878
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 147"
+                "name": "SKA084"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.442481,
-                    -30.713809
+                    -30.713809,
+                    21.442481
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 148"
+                "name": "SKA085"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.443404,
-                    -30.713858
+                    -30.713858,
+                    21.443404
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 149"
+                "name": "SKA086"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.442744,
-                    -30.714023
+                    -30.714023,
+                    21.442744
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 150"
+                "name": "SKA087"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.443683,
-                    -30.714159
+                    -30.714159,
+                    21.443683
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 151"
+                "name": "SKA088"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.445795,
-                    -30.71416
+                    -30.71416,
+                    21.445795
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 152"
+                "name": "SKA089"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.44105,
-                    -30.714684
+                    -30.714684,
+                    21.44105
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 153"
+                "name": "SKA090"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.443552,
-                    -30.714778
+                    -30.714778,
+                    21.443552
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 154"
+                "name": "SKA091"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.447484,
-                    -30.714879
+                    -30.714879,
+                    21.447484
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 155"
+                "name": "SKA092"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.442161,
-                    -30.714887
+                    -30.714887,
+                    21.442161
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 156"
+                "name": "SKA093"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.444252,
-                    -30.715123
+                    -30.715123,
+                    21.444252
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 157"
+                "name": "SKA094"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.439897,
-                    -30.71568
+                    -30.71568,
+                    21.439897
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 158"
+                "name": "SKA095"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.455538,
-                    -30.715743
+                    -30.715743,
+                    21.455538
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 159"
+                "name": "SKA096"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.443939,
-                    -30.716027
+                    -30.716027,
+                    21.443939
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 160"
+                "name": "SKA097"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.437642,
-                    -30.716174
+                    -30.716174,
+                    21.437642
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 161"
+                "name": "SKA098"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.444992,
-                    -30.716377
+                    -30.716377,
+                    21.444992
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 162"
+                "name": "SKA099"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.449036,
-                    -30.717223
+                    -30.717223,
+                    21.449036
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 163"
+                "name": "SKA100"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.444662,
-                    -30.718358
+                    -30.718358,
+                    21.444662
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 164"
+                "name": "SKA101"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.436356,
-                    -30.71874
+                    -30.71874,
+                    21.436356
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 165"
+                "name": "SKA102"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.440217,
-                    -30.719265
+                    -30.719265,
+                    21.440217
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 166"
+                "name": "SKA103"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.447266,
-                    -30.720233
+                    -30.720233,
+                    21.447266
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 167"
+                "name": "SKA104"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.532299,
-                    -30.723754
+                    -30.723754,
+                    21.532299
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 168"
+                "name": "SKA105"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.432849,
-                    -30.720912
+                    -30.720913,
+                    21.432849
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 169"
+                "name": "SKA106"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.3975,
-                    -30.722426
+                    -30.722426,
+                    21.3975
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 170"
+                "name": "SKA107"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.433899,
-                    -30.725179
+                    -30.725179,
+                    21.433899
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 171"
+                "name": "SKA108"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.437646,
-                    -30.729515
+                    -30.729515,
+                    21.437646
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 172"
+                "name": "SKA109"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.511124,
-                    -30.73479
+                    -30.73479,
+                    21.511124
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 173"
+                "name": "SKA110"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.442417,
-                    -30.734251
+                    -30.734251,
+                    21.442417
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 174"
+                "name": "SKA111"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.18377,
-                    -30.728811
+                    -30.728811,
+                    21.18377
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 175"
+                "name": "SKA112"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.391708,
-                    -30.736333
+                    -30.736333,
+                    21.391708
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 176"
+                "name": "SKA113"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.452432,
-                    -30.739759
+                    -30.739759,
+                    21.452432
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 177"
+                "name": "SKA114"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.493222,
-                    -30.737051
+                    -30.737051,
+                    21.493222
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 178"
+                "name": "SKA115"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.460272,
-                    -30.742016
+                    -30.742016,
+                    21.460272
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 179"
+                "name": "SKA116"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.472848,
-                    -30.736715
+                    -30.736715,
+                    21.472848
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 180"
+                "name": "SKA117"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.394676,
-                    -30.752293
+                    -30.752293,
+                    21.394676
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 181"
+                "name": "SKA118"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.397161,
-                    -30.778551
+                    -30.778551,
+                    21.397161
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 182"
+                "name": "SKA119"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.887418,
-                    -30.75981
+                    -30.75981,
+                    21.887418
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 183"
+                "name": "SKA120"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.409843,
-                    -30.803742
+                    -30.803742,
+                    21.409843
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 184"
+                "name": "SKA121"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.14482,
-                    -30.809841
+                    -30.809841,
+                    21.14482
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 185"
+                "name": "SKA122"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.423691,
-                    -30.841585
+                    -30.841585,
+                    21.423691
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 186"
+                "name": "SKA123"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.804492,
-                    -30.84449
+                    -30.84449,
+                    21.804492
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 187"
+                "name": "SKA124"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.458958,
-                    -30.86529
+                    -30.86529,
+                    21.458958
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 188"
+                "name": "SKA125"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.507603,
-                    -30.881553
+                    -30.881553,
+                    21.507603
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 189"
+                "name": "SKA126"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.697338,
-                    -30.883676
+                    -30.883676,
+                    21.697338
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 190"
+                "name": "SKA127"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.635612,
-                    -30.869176
+                    -30.869177,
+                    21.635612
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 191"
+                "name": "SKA128"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.108905,
-                    -30.910611
+                    -30.910611,
+                    21.108905
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 192"
+                "name": "SKA129"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.077184,
-                    -31.041894
+                    -31.041894,
+                    21.077184
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 193"
+                "name": "SKA130"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.169521,
-                    -31.201255
+                    -31.201255,
+                    21.169521
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 194"
+                "name": "SKA131"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.267823,
-                    -31.340773
+                    -31.340773,
+                    21.267823
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 195"
+                "name": "SKA132"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    21.499014,
-                    -31.519592
+                    -31.519592,
+                    21.499014
                 ],
                 "type": "Point"
             },
             "properties": {
-                "name": "Antenna 196"
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
-                    21.443803,
-                    -30.712925
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "name": "Antenna 197"
+                "name": "SKA133"
             },
             "type": "Feature"
         }
