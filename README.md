@@ -8,7 +8,6 @@ Geodetic datum used is WGS84. These are useful for preparing talks and publicati
 
 Data are taken from SKA report [SKA-TEL-INSA-0000537](https://www.skao.int/sites/default/files/documents/d20-SKA-TEL-INSA-0000537-SKA1_Mid_Physical_Configuration_Coordinates_Rev_2-signed_0.pdf) dated 13/03/2015.
 
-
 ![SKA1 location in africa](https://github.com/tmolteno/ska-mid-locations/blob/main/img/ska1_mid_africa.png?raw=true)
 
 ## Visualizing in a browser
@@ -24,3 +23,6 @@ In google earth (desktop) choose File->Import and select 'all files'. Then choos
 
 ![SKA1 KML Visualization in google earth](https://github.com/tmolteno/ska-mid-locations/blob/main/img/ska1_mid_earth.jpg?raw=true)
 
+## Plotting using Cartopy
+
+The file plot_locations.py shows how to plot a figure showing the array layout.
