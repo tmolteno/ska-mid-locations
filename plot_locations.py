@@ -79,6 +79,7 @@ def plot_ska(lonmin, lonmax, latmin, latmax, plot_terrain=False):
     ax.add_feature(cfeature.BORDERS, linestyle=':')
     ax.add_feature(cfeature.LAKES, alpha=0.5)
     ax.add_feature(cfeature.RIVERS)
+    plt.tight_layout()
 
 if __name__=="__main__":
     lat, lon = read_positions()
